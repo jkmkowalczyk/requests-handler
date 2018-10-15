@@ -1,0 +1,4 @@
+Client_Id,Request_Id,Name,Quantity,Price
+1,1,Bułka,1,10.0
+1,2,Chleb,2,5.2
+2,2,Rogal,1,6.0
